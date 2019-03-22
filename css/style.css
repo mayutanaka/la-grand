@@ -5,19 +5,63 @@ body {
 }
 
 p {
-    font-size: 10px;
-    font-style: italic;
+    font-size: 12px;
 }
 
 button {
   margin-top: 20px;
 }
 
+.titular {
+  text-align: center;
+  position: fixed;
+  left: 663px;
+  margin-top: 0.1px;
+  padding: 0;
+  color: white;
+  font-weight: bolder;
+  font-variant: small-caps;
+}
+
+.main {
+  margin-top: 60px;
+}
+
+.navbar {
+  background-color: #D1495B;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  font-size: 12px;
+  display: inline-block;
+  width: 50px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background: #FFC857;
+  color: #118AB2;
+}
+
 .sidebar {
     position: absolute;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    margin-top: 50px;
+    margin-left: 100px;
     height: 600px;
     width: 350px;
-    margin: 100px;
+}
+
+.slide-title {
+  background-color: #FFC857;
+  width: auto;
 }
 
 #map {
@@ -25,8 +69,16 @@ button {
     left: 550px;
     right: 0;
     margin-right: 100px;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-bottom: 100px;
     width: 800px;
     height: 600px;
+}
+
+#nav-prev {
+  float: left;
+}
+
+#nav-next {
+  float: right;
 }

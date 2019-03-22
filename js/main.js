@@ -17,69 +17,20 @@ var Stamen_TonerLite = L.tileLayer(basemapURL, {
 }).addTo(map);
 
 /* ================
-Read data
+Read data and update page
 ==================*/
-var data = L.GeoJSON('../grandLA.geojson').addTo(map);
-
-/* ================
-Slide Deck creation
-==================*/
-var slide1 = Slide("A New Vision for LA", slideText1);
-var slide2 = Slide("Transit Accessibility", slideText2);
-var slide3 = Slide("Nearby Groceries", slideText3);
-var slide4 = Slide("Nearby Parks", slideText4);
-var slide5 = Slide("Nearby Museums", slideText5);
-
-var slideDeck = [slide1, slide2, slide3, slide4, slide5];
-var currSlide = 0;
-
-/*==========================
-==========================*/
-$(document).ready(function() {
-  $('.slide-title').text(slideDeck[currSlide].title);
-  $('#p1').text(slideDeck[currSlide].text[0]);
-  $('#p2').text(slideDeck[currSlide].text[1]);
-
-  if (currSlide > 0) {
-    $('button').text('Previous').click(function() {
+var dataURL = 'https://raw.githubusercontent.com/mayutanaka/la-grand/master/grandLA.geojson';
+var grandLA = $.getJSON(dataURL).done(function(res) {
+  // Update content based on user input (button clicking next/previous)
+  $(document).ready(function() {
+    updateSlide(res);
+    $('#nav-prev').click(function() {
       currSlide-=1;
-      console.log(data);
+      updateSlide(res);
     });
-  }
-
-  if (currSlide < slideDeck.length-1) {
-    $('button').text('Next').click(function() {
+    $('#nav-next').click(function() {
       currSlide+=1;
-      console.log(data);
+      updateSlide(res);
     });
-  }
-
+  });
 });
-
-
-/* ================
-Map data
-==================*/
-// function onEachFeature(feature, layer) {
-//   switch(feature.properties.type) {
-//     case "museum":
-//       museum(feature);
-//       break;
-//     case "grocery":
-//       grocery(feature);
-//       break;
-//     case "transit":
-//       transit(feature);
-//       break;
-//     default:
-//       general(feature);
-//   }
-//   layer.bindPopup(feature.properties.name);
-// }
-//
-// L.geoJSON(geojsonFeature, {
-//     onEachFeature: onEachFeature,
-//     filter: function(feature, layer) {
-//         return feature.properties.show_on_map;
-//     }
-// }).addTo(map);
