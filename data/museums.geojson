@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "The Broad",
+        "type": "museum",
+        "distance": 0.08,
+        "rating": 4.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.250323,
+          34.054404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "type": "museum",
+        "name": "The Museum of Contemporary Art",
+        "distance": 0.1,
+        "rating": 4.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25072,
+          34.053417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Wells Fargo Museum",
+        "type": "museum",
+        "distance": 0.2,
+        "rating": 4.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.251922,
+          34.05291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "The Main Museum of Los Angeles",
+        "type": "museum",
+        "rating": 4.3,
+        "distance": 0.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.247815,
+          34.048239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "The Geffen Museum at MOCA",
+        "type": "museum",
+        "rating": 4.4,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238528,
+          34.050546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Japanese American National Museum",
+        "type": "museum",
+        "rating": 4.6,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238549,
+          34.049688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Chinese American Museum",
+        "type": "museum",
+        "rating": 4.7,
+        "distance": 0.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239082,
+          34.055879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Plaza Firehouse",
+        "type": "museum",
+        "rating": 4.3,
+        "distance": 0.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238784,
+          34.056048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Museum of Social Justice",
+        "type": "museum",
+        "rating": 5,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238116,
+          34.0569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Avila Adobe",
+        "type": "museum",
+        "rating": 4.5,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.237975,
+          34.057297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Sepulveda House Museum",
+        "type": "museum",
+        "rating": 4,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238187,
+          34.057687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "America Tropical Interpretive Center",
+        "type": "museum",
+        "rating": 4.3,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238045,
+          34.057694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "The Italian American Museum of Los Angeles",
+        "type": "museum",
+        "rating": 4.6,
+        "distance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.237716,
+          34.058065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Velveteria: The Museum of Velvet Art",
+        "type": "museum",
+        "rating": 4.6,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238612,
+          34.06046
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "1st & Grand Ave E",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.07
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.24842453002928,
+          34.05530832894018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "1st St & Hope St E",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.249606,
+          34.056139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "Olive Ave & 1st St E",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.248082,
+          34.054453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "1st & Hill",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246882,
+          34.054399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "name": "Civic Center/Grand Park",
+        "type": "transit",
+        "transit-type": "subway",
+        "distance": 0.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.247022,
+          34.054236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "Temple St & Hill St",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.247252,
+          34.056788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "Hope St & Temple St",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.248969,
+          34.057523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "Grand & Temple",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.246734,
+          34.057979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "Grand Ave & 2nd St W",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.08
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.250267,
+          34.054328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "name": "Grand Ave & 2nd St W",
+        "type": "transit",
+        "transit-type": "bus",
+        "distance": 0.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.25104,
+          34.053119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "name": "Grand & 3rd",
+        "type": "transit",
+        "transit-type": "bike-share",
+        "distance": 0.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.250793,
+          34.05343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "name": "2nd & Hill",
+        "type": "transit",
+        "transit-type": "bike-share",
+        "distance": 0.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.248272,
+          34.053137
+        ]
+      }
+    }
+  ]
+}

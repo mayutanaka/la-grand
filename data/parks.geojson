@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Grand Park",
+        "type": "park",
+        "distance": 0.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.245555,
+          34.055544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Circle Park",
+        "type": "park",
+        "distance": 0.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.243571,
+          34.052879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Angel's Knoll",
+        "type": "park",
+        "distance": 0.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.250537,
+          34.051126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Pershing Square",
+        "type": "park",
+        "distance": 0.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.252883,
+          34.048656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Biddy Mason Memorial Park",
+        "type": "park",
+        "distance": 0.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.248082,
+          34.049986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Spring Street Park",
+        "type": "park",
+        "distance": 0.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.248568,
+          34.04803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Los Angeles Plaza Park",
+        "type": "park",
+        "distance": 0.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238756,
+          34.056696
+        ]
+      }
+    }
+  ]
+}

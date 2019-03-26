@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed462f",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "The Grand",
+        "type": "mixed-use",
+        "has-housing": true,
+        "year-built": 2021,
+        "stories": 39,
+        "distance": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2489502429962,
+          34.05488610928646
+        ]
+      }
+    }
+  ]
+}

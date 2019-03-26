@@ -1,0 +1,278 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "G & G Market",
+        "type": "grocery",
+        "year-built": 1961,
+        "has-housing": false,
+        "stories": 2,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238779,
+          34.060109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Marukai Market",
+        "type": "grocery",
+        "has-housing": false,
+        "year-built": 1981,
+        "stories": 2,
+        "distance": 0.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.242375,
+          34.050124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "6th Street Market",
+        "type": "grocery",
+        "has-housing": true,
+        "year-built": 1928,
+        "stories": 14,
+        "distance": 0.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.251487,
+          34.04618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Valeria's Groceries",
+        "type": "grocery",
+        "has-housing": true,
+        "year-built": 1910,
+        "stories": 6,
+        "distance": 0.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.248924,
+          34.05072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Mcbride Ag Foods",
+        "type": "grocery",
+        "has-housing": true,
+        "year-built": 1950,
+        "stories": 8,
+        "distance": 0.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.247039,
+          34.047928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Whole Foods Market",
+        "type": "grocery",
+        "has-housing": true,
+        "year-built": 2016,
+        "stories": 7,
+        "distance": 0.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.257472,
+          34.046221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Tony's Market",
+        "type": "grocery",
+        "has-housing": true,
+        "year-built": 1950,
+        "stories": 6,
+        "distance": 0.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.249817,
+          34.048689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Nijiya Market",
+        "type": "grocery",
+        "has-housing": false,
+        "year-built": 1990,
+        "stories": 1,
+        "distance": 0.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.240374,
+          34.0487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Chanh Thai Inc",
+        "type": "grocery",
+        "has-housing": false,
+        "year-built": 1979,
+        "stories": 1,
+        "distance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239023,
+          34.06271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Lian Shing Hong",
+        "type": "grocery",
+        "has-housing": false,
+        "year-built": 1979,
+        "stories": 2,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239721,
+          34.061771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Far East Center",
+        "type": "grocery",
+        "has-housing": false,
+        "year-built": 1940,
+        "stories": 1,
+        "distance": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.238664,
+          34.061314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Yue Wa Market",
+        "type": "grocery",
+        "has-housing": false,
+        "year-built": 1961,
+        "stories": 2,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239254,
+          34.060176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "grocery",
+        "name": "Duc Hiep Co Inc",
+        "type": "grocery",
+        "has-housing": false,
+        "year-built": 1979,
+        "stories": 1,
+        "distance": 0.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.239243,
+          34.059964
+        ]
+      }
+    }
+  ]
+}
