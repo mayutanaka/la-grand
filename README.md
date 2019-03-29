@@ -1,4 +1,6 @@
-# la-grand
-CPLN692-Midterm
+# Assessing TOD quality in LA
+CPLN692-Midterm + Week 9 Submission
 
-This will be updated later.
+Please see index.html for midterm submission.
+
+Please see index1.html for Week 9 submission.
